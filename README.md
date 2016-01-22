@@ -1,1 +1,1 @@
-# CLM
+# Constrained Local Model (CLM)
